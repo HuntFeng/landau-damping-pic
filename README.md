@@ -9,4 +9,8 @@ python pic_solver.py
 ```
 2. Then analyze the result using the jupyter notebook `analysis_pic.ipynb`.
 
+# Results
+The results are as good as a Vlasov solver. Maybe some higher degree interpolation techniques are required.
 
+![fields.png](./fields.png)
+![E_sqr.png](./E_sqr.png)
